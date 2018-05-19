@@ -1,0 +1,10 @@
+{
+	module: 'MMM-NOAA',
+	position: 'top_left',
+		config: {
+
+		apiKey: "4cc3880807c6aaa9",    // https://www.wunderground.com/weather/api  select the middle plan... 
+		airKey: "orBbd9wjdyTK6yp5R",    // IF you want Air Quality Index
+		pws1: "KMIWESTL11" ,
+                    loco1: "Detroit/Us",
+		} 
